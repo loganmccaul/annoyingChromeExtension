@@ -18,7 +18,6 @@ gain.gain.value = .5;
 
 function playNote(count) {
   if (count > text.length - 1) count = 0;
-  tempo = (Math.random() * 1000) + 50;
   tempo = 100;
   setTimeout(function() {
     osc.frequency.value = getFrequency(text[count]);
