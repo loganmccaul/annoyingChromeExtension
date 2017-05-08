@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Annoying Chrome Extension",
-  "description": "Make It Stop.",
+  "description": "Beeb Bop Boop",
   "version": "0.1",
 
   "browser_action": {
